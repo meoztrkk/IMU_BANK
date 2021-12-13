@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IMU_BANK", "IMU_BANK\IMU_BANK.csproj", "{4E8500FE-032F-4007-BA97-8E7094E59789}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4E8500FE-032F-4007-BA97-8E7094E59789}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E8500FE-032F-4007-BA97-8E7094E59789}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E8500FE-032F-4007-BA97-8E7094E59789}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E8500FE-032F-4007-BA97-8E7094E59789}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {29B36C1B-1A1C-4AF4-88E1-3C53A6733D2B}
+	EndGlobalSection
+EndGlobal
